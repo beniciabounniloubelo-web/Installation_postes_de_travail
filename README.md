@@ -1,6 +1,7 @@
 # Amles_environment_configuration
-Déploiement de postes de travail en entreprise avec installation dual boot Windows 7 / Arch Linux
+Deploiement de postes de travail en entreprise avec installation dual boot Windows 7 / Arch Linux
 
+<!--
 # 🖥️ AMLES Workstation Deployment
 
 Procédure complète d’installation et de configuration des postes de travail de l’entreprise AMLES.
@@ -61,5 +62,5 @@ La procédure détaillée est disponible dans :
 * Déploiement de postes en entreprise
 
 ---
-
+-->
 Projet réalisé dans un contexte académique (BUT Informatique).
